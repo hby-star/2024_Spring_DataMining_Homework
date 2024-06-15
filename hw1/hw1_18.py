@@ -131,8 +131,8 @@ import matplotlib.pyplot as plt
 
 if __name__ == '__main__':
     # 主程序入口，调用discrete函数处理iris.data文件
-    discrete('iris.data')
-    data = Instances = read('iris.data')
+    discrete('data/iris.data')
+    data = Instances = read('data/iris.data')
 
     data = list(zip(*data))
 

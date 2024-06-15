@@ -22,5 +22,5 @@
 
 ## 3. 运行截图
 
-![img.png](img.png)
+![img.png](image/img.png)
 
